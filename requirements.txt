@@ -1,0 +1,16 @@
+# YOLO and DeepSORT requirements
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python>=4.5.1
+numpy>=1.19.5
+Pillow>=8.0.0
+matplotlib>=3.3.3
+scipy>=1.7.0
+
+# YOLOv5
+yolov5==7.0.13  # Add specific YOLOv5 package
+ultralytics>=8.0.0  # For YOLOv8 support
+
+# DeepSORT dependencies
+deep-sort-realtime>=1.3.0
+scikit-learn>=0.24.1

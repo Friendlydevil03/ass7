@@ -1,0 +1,2 @@
+[2025-04-09 20:03:40] Scaling positions: reference 1280x720, current 1280x720, scale factors: (1.000, 1.000)
+[2025-04-09 20:03:41] UI adjusted for screen size: 1280x720

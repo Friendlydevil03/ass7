@@ -1,0 +1,6 @@
+[2025-04-09 20:11:53] Scaling positions: reference 1280x720, current 1280x720, scale factors: (1.000, 1.000)
+[2025-04-09 20:11:53] UI adjusted for screen size: 1280x720
+[2025-04-09 20:11:57] Recorded current statistics
+[2025-04-09 20:11:58] UI adjusted for screen size: 1280x720
+[2025-04-09 20:11:59] Statistics exported to logs\parking_stats_20250409_201157.csv
+[2025-04-09 20:12:00] Statistics cleared
